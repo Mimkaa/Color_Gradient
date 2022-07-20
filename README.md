@@ -1,5 +1,5 @@
 # A_Simple_Color_Gradient
-### it generes a gradient between an unlimited number of colors 
+### it generates a gradient between an unlimited number of colors 
     All fantional is encapsulated in this class (the coloros of which the gradient will be generated are passed first, then number to cells, and game class to access text drawing method )
     
 self.color_grad = **Color_Gradient**((WHITE, GREEN, BLUE, RED, BLACK), 100, self)
